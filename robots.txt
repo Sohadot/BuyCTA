@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buycta.com/sitemap.xml
